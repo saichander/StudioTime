@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  studio: one
+  start_time: 2019-07-23 21:44:46
+  end_time: 
+  date: 2019-07-23
+  actual_amount: 1.5
+  coupon: MyString
+  final_amount: 1.5
+
+two:
+  user: two
+  studio: two
+  start_time: 2019-07-23 21:44:46
+  end_time: 
+  date: 2019-07-23
+  actual_amount: 1.5
+  coupon: MyString
+  final_amount: 1.5
